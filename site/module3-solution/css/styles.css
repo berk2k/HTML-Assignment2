@@ -106,8 +106,8 @@ p {
 @media (max-width: 767px){
     .col-12-xs {
   	    float: left;
-		width: 80%;
-		margin-left: 10%
+		width: 100%;
+		
     }
 	
 }
